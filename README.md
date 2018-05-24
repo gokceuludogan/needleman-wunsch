@@ -1,3 +1,5 @@
+Needleman-Wunsch implementation in python. 
+
 The program takes sequences as input by either from an file or just arguments. 
 
 Usage: 
