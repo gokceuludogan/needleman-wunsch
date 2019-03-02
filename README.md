@@ -1,8 +1,8 @@
-Needleman-Wunsch implementation in python. 
+## Needleman-Wunsch implementation in python. 
 
 The program takes sequences as input by either from an file or just arguments. 
 
-Usage: 
+### Usage: 
 * For taking sequences from a file, the relative file path should be given.
 
 	`python aligment.py <path-of-input-file>`
